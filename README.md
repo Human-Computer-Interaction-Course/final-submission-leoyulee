@@ -7,7 +7,7 @@ Your final draft will need to demonstrate your ability to incorporate JavaScript
 This requirement requires that you identify 3 or more ways in which you will improve or advanced your project from assignment 4. These improvements can include enhancements that effect the UI/UX of  your site.  The effective use and implementation of JavaScript can be considered as one or more of your improvements or advancements.  
 
 Some of your improvements may consider accessibility and usability enhancements.
-- HTML comments within the <head> of your site describing your 3 or more improvements. *Adjusting text or simply adding new html elements will not be considered as a substantial improvement.
+- HTML comments within the \<head\> of your site describing your 3 or more improvements. *Adjusting text or simply adding new html elements will not be considered as a substantial improvement.
 - Thorough implementation of responsive design considerations for a variety of screen widths
 - Lay-out is symmetrical and aesthetically pleasing with adequate use of active white space
 - Site must be free of W3 validation errors and warnings.  Your site should also be free of broken links.
